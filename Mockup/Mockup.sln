@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mockup.api", "Mockup.api.csproj", "{8F1DD989-52E9-4BF5-8E36-266CB88731BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mockup.datamodels", "..\ClassLibrary1\Mockup.datamodels.csproj", "{7F510AF4-9B9B-4928-94DF-76116C43B90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1DD989-52E9-4BF5-8E36-266CB88731BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1DD989-52E9-4BF5-8E36-266CB88731BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1DD989-52E9-4BF5-8E36-266CB88731BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1DD989-52E9-4BF5-8E36-266CB88731BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F510AF4-9B9B-4928-94DF-76116C43B90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F510AF4-9B9B-4928-94DF-76116C43B90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F510AF4-9B9B-4928-94DF-76116C43B90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F510AF4-9B9B-4928-94DF-76116C43B90E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74438EC1-269E-4FC2-998B-B028EFB715D5}
+	EndGlobalSection
+EndGlobal

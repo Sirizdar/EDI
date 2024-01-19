@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mockup.api.props" />
+</Project>

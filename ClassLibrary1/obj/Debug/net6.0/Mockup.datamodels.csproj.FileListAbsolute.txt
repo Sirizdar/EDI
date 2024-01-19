@@ -1,0 +1,14 @@
+C:\Tutorial VB\EDI\ClassLibrary1\bin\Debug\net6.0\Mockup.datamodels.deps.json
+C:\Tutorial VB\EDI\ClassLibrary1\bin\Debug\net6.0\Mockup.datamodels.dll
+C:\Tutorial VB\EDI\ClassLibrary1\bin\Debug\net6.0\Mockup.datamodels.pdb
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.AssemblyInfoInputs.cache
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.AssemblyInfo.cs
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.csproj.CoreCompileInputs.cache
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.dll
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\refint\Mockup.datamodels.dll
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.pdb
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\ref\Mockup.datamodels.dll
+C:\Tutorial VB\EDI\ClassLibrary1\bin\Debug\net6.0\Mockup.datamodels.runtimeconfig.json
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.csproj.AssemblyReference.cache
+C:\Tutorial VB\EDI\ClassLibrary1\obj\Debug\net6.0\Mockup.datamodels.genruntimeconfig.cache
